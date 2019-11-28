@@ -1,8 +1,8 @@
-## Hello Example Using Springboot And Gradle
+## Hello Example Using SpringBoot And Gradle
 
-spring boot hello example 
+SpringBoot hello example 
 
-## Run In the Intellij Idea
+## Run In the IntelliJ Idea
 
 1. Add Run/Debug Configuration using gradle
 
